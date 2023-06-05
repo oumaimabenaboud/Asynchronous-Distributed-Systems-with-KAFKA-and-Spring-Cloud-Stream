@@ -38,9 +38,9 @@ public class PageEventRestController {
     }
 
 
-    @GetMapping(path = "/analytics",produces = MediaType.TEXT_EVENT_STREAM_VALUE)
+    @GetMapping(path="/analytics",produces = MediaType.TEXT_EVENT_STREAM_VALUE)
 
-    // @GetMapping(path = "/analytics/{page}",produces = MediaType.TEXT_EVENT_STREAM_VALUE)
+    //@GetMapping(path = "/analytics/{page}",produces = MediaType.TEXT_EVENT_STREAM_VALUE)
 
     public Flux<Map<String, Long>>  analytics(){
 
