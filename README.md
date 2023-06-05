@@ -34,3 +34,4 @@ Asynchronous Distributed Systems with KAFKA and Spring Cloud Stream
 ![Capture d'écran 2023-06-05 165924](https://github.com/oumaimabenaboud/Asynchronous-Distributed-Systems-with-KAFKA-and-Spring-Cloud-Stream/assets/120368654/16a9e9b5-d521-49f0-99f3-4e173968303b)
 
 - Une application Web qui permet d'afficher les résultats du Stream Data Analytics en temps réel
+![Capture d'écran 2023-06-05 194851](https://github.com/oumaimabenaboud/Asynchronous-Distributed-Systems-with-KAFKA-and-Spring-Cloud-Stream/assets/120368654/205d898e-5c13-4102-9ce1-c12852dea665)
